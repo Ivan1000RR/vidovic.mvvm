@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RMA</string>
+    <string name="labelSifra">Šifra</string>
+    <string name="labelProizvodjac">Proizvodjac</string>
+    <string name="labelModel">Model</string>
+    <string name="labelSnaga">Snaga(hp)</string>
+    <string name="labelZapremnina">Zapremina motora</string>
+    <string name="labelNazad">Nazad</string>
+    <string name="labelSlika">Slika motora</string>
+    <string name="labelNovi">Dodaj novi motor</string>
+    <string name="labelPromjeni">Promjeni motor</string>
+    <string name="labelObrisi">Obriši motor</string>
+    <string name="labelUslikaj">Uslikaj motor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
